@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 merge tool testing
 
 her ewe goto merge
@@ -9,3 +10,13 @@ sdsdfsdf
 
 sdfagalkj ;p;mp;m
 
+=======
+sgdf Merge Tool
+dfg Merge Tool
+dfsg Merge Tool
+dfgdfgfd Merge Tool
+dsfgdfg Merge Tool
+dfgdfgdfg Merge Tool
+ Merge Tool
+dffffffgtrujyufj Merge Tool
+>>>>>>> source
