@@ -9,6 +9,7 @@ int main()
 
 	c = SET(num, bit_pos);
 
+	add(5,10);
 	printf("%d \t %X\r\n", c, c);
 
 	return 0;
