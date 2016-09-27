@@ -10,6 +10,11 @@ void add(int,int);
 
 
 
+<<<<<<< HEAD
+=======
+	add(5,10);
+	printf("%d \t %X\r\n", c, c);
+>>>>>>> source
 
 
 
